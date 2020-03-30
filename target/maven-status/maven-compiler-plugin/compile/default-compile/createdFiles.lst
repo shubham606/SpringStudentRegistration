@@ -1,0 +1,5 @@
+com\student\registrationform\dao\StudentDetailsDAO.class
+com\student\registrationform\daoimpl\StudentDetailsDAOImpl.class
+com\student\registrationform\model\StudentDetails.class
+com\student\registrationform\controller\HomeController.class
+com\student\registrationform\controller\StudentDetailsController.class
